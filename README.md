@@ -2,7 +2,7 @@
 - 👀 I’m interested in web designing and creating a responsive website
 - 🌱 I’m currently learning MERN STACK 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : You can reach me on joshinabraham007@gmail.com
+- 📫 How to reach me : You can reach me on joshinabraham16@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: ...
 
