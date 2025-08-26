@@ -1,12 +1,2 @@
-- 👋 Hi, I’m @joshin-dev
-- 👀 I’m interested in web designing and creating a responsive website
-- 🌱 I’m currently learning MERN STACK 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : You can reach me on joshinabraham16@gmail.com
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: ...
-
-<!---
-joshin-dev/joshin-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Mario](https://github.com/user-attachments/assets/f58eeb29-fc74-4a2e-9492-7d070e40c9bd)
+Hi! Im Joshin Abraham, A Fullstack Developer. 
