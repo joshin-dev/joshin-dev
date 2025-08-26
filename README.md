@@ -1,9 +1,9 @@
 [![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTYyMDgwODAsIm5iZiI6MTc1NjIwNzc4MCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODI2VDExMjk0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRmODc3MzA2MTMzYWZhZTQ4YjM1OTI1NTQ4NTllN2VkN2E5YzNmZmY2MmRhNjBjNTBmYzI5M2JiODY3YjU1ZmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.E3tpNZccgW4LA177Hvi8BtGnwRGSJ_1F9930CQSb1xE)
-<img align="right" alt="Coding" width="400" src="(https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)"/>
-
 
 <h1 align="center">Hi 👋, I'm Joshin Abraham</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+[![Mario](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshin-dev&label=Profile%20views&color=0e75b6&style=flat" alt="joshin-dev" /> </p>
 
